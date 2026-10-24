@@ -1,0 +1,28 @@
+CRIME_TYPE,rows,accuracy
+Violence,78,0.667
+Street Crimes,124,0.71
+Industrial Theft,100,0.77
+Drug Mafia Activity,135,0.778
+Extortion,1046,0.793
+Gang Activity,1049,0.84
+Robbery,2087,0.86
+Theft,1481,0.86
+Drug Possession,1099,0.864
+Mugging,120,0.867
+Snatching,2019,0.869
+Land Grabbing,1052,0.876
+Industrial Hazards,1026,0.899
+Assault,1186,0.917
+Political Violence,1203,0.922
+Homicide,1137,0.938
+Kidnapping,1025,0.943
+Gang Violence,1469,0.951
+Murder,1637,0.957
+Mobile Snatching,25,1.0
+Gun Violence,174,1.0
+Phone Theft,85,1.0
+Shootings,201,1.0
+Ethnic Conflict,68,1.0
+Cellphone Snatching,148,1.0
+Street Snatching,87,1.0
+Targeted Killing,139,1.0

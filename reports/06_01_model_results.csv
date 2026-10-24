@@ -1,0 +1,5 @@
+Model,CV macro F1,Test accuracy,Test macro F1,Chosen
+Always predict High,,0.551,0.237,
+Logistic regression (baseline),,0.896,0.876,
+Logistic regression (tuned),0.875,0.894,0.876,yes
+Random forest (tuned),0.872,0.89,0.871,

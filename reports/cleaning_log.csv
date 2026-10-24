@@ -1,0 +1,14 @@
+step,action,rows,columns,notes
+1,Load raw data,100000,21,"karachi_crime_2020_2025.csv, unchanged"
+2,Remove rows with missing values,100000,21,"0 missing cells found, 0 rows removed"
+3,Remove duplicate rows,100000,21,"0 duplicate rows and 0 duplicate INCIDENT_IDs found, 0 rows removed"
+4,Standardise text values,100000,21,"0 values had extra spaces, 5607 values had a long dash (e.g. 'Medium–High' became 'Medium-High')"
+5,Convert DATE from text to date,100000,21,"Range 2020-06-01 to 2025-05-31. The data has dates only, no time of day"
+6,Check SEVERITY matches SEVERITY_SCORE,100000,21,"0 mismatches. SEVERITY_SCORE is SEVERITY in numbers, so it must not be used to predict SEVERITY"
+7,Check IS_*_ZONE flags against RISK_ZONE,100000,21,Flags are exact copies of RISK_ZONE: True
+8,Check RISK_ZONE against SUBDIVISION_RISK_LEVEL,100000,21,"One-to-one match (same information, different labels): True"
+9,Flag suspicious coordinates,100000,22,"562 rows flagged in IS_SUSPECT_COORD (subdivision: ['Khokhrapar']), because they are more than 0.2 degrees from their own town. Rows are kept for counts, but should be left off maps"
+10,Note rounded coordinates,100000,22,Subdivisions with coordinates rounded to 2 decimals but inside their own town: ['Hindu Para']. Kept as valid
+11,Drop columns with a single value,100000,20,"Dropped ['IS_WHITE_ZONE', 'SOURCE']. SOURCE was ['Synthetic'], so this is synthetic data"
+12,Drop IS_*_ZONE flags,100000,16,"Dropped ['IS_RED_ZONE', 'IS_ORANGE_ZONE', 'IS_YELLOW_ZONE', 'IS_GREEN_ZONE'], RISK_ZONE keeps the same information"
+13,Add date features,100000,23,"Added YEAR, MONTH, YEAR_MONTH, DAY_OF_WEEK, DAY_NAME, IS_WEEKEND and PERIOD (Jun-May year, e.g. 2020/21)"

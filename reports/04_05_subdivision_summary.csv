@@ -1,0 +1,195 @@
+SUBDIVISION,incidents,pct_high,avg_severity,town,risk_level
+Baghdadi,2143,99.6,9.9,Lyari Town,High
+Kalakot,2077,99.6,9.88,Lyari Town,High
+Zaman Town,1745,97.5,9.5,Korangi Town,High
+Shah Baig Line,1392,74.9,8.6,Lyari Town,High
+Nasir Colony,1383,73.3,8.5,Korangi Town,High
+Nayabad,1347,77.1,8.65,Lyari Town,High
+Landhi 89,1311,99.8,9.94,Landhi Town,High
+Singo Lane,1303,77.3,8.68,Lyari Town,High
+Pirabad,1282,99.4,9.94,Orangi Town,High
+Regal Chowk,1247,98.7,9.39,Saddar Town,High
+Burns Road,1223,99.7,9.85,Saddar Town,High
+Ghaziabad,1199,99.8,9.87,Orangi Town,High
+Sherpao Colony,1177,98.0,9.5,Landhi Town,High
+Machhar Colony,1144,99.0,9.46,Keamari Town,High
+Saeedabad,1116,97.7,9.5,Baldia Town,High
+Baloch Colony,1111,98.3,9.11,Jamshed Town,High
+Nursery,1092,97.5,9.09,Jamshed Town,High
+Moeenabad,1026,96.0,9.74,Landhi Town,High
+Bilal Colony,1025,73.5,8.51,Korangi Town,High
+Qasba Colony,978,69.6,8.37,SITE Town,High
+Manghopir,975,79.3,8.35,Gadap Town,High
+Ahsanabad,958,87.5,8.66,Gadap Town,High
+Tariq Road,955,75.3,8.23,Jamshed Town,High
+Abidabad,951,95.6,9.74,Baldia Town,High
+Nai Abadi,917,74.9,8.58,Baldia Town,High
+Hindu Para,915,67.3,8.19,Keamari Town,High
+Mehran Town,912,73.1,8.5,Korangi Town,High
+Jackson Market,898,64.4,8.15,Keamari Town,High
+Future Colony,897,75.4,8.57,Landhi Town,High
+Metroville,882,71.2,8.37,SITE Town,High
+Taiser Town,881,67.5,8.25,Gadap Town,High
+Mansan Chowk,860,66.9,8.18,Keamari Town,High
+Rasheedabad,854,76.8,8.64,Baldia Town,High
+Shah Faisal Colony No 5,850,68.0,8.36,Shah Faisal Town,High
+Ittehad Town,833,76.8,8.68,Baldia Town,High
+Ibrahim Hyderi,817,78.1,8.33,Bin Qasim Town,Medium-High
+Frontier Colony,811,71.3,8.43,SITE Town,High
+Chakiwara,801,44.6,6.98,Lyari Town,Medium
+Bihar Colony,750,45.6,7.03,Lyari Town,Medium
+Gulshan-e-Iqbal Block 13D,749,51.7,7.52,Gulshan-e-Iqbal Town,Medium-High
+Haroonabad,745,78.5,8.32,SITE Town,Medium
+Empress Market,701,54.2,7.63,Saddar Town,Medium-High
+Gulshan-e-Iqbal Block 13F,694,54.2,7.63,Gulshan-e-Iqbal Town,Medium-High
+Gulshan-e-Hadeed,677,57.6,7.72,Bin Qasim Town,Medium-High
+Shanti Nagar,674,52.2,7.6,Gulshan-e-Iqbal Town,Medium-High
+Daryabad,669,46.0,7.13,Lyari Town,Medium
+I.I Chundrigar,667,51.3,7.59,Saddar Town,Medium-High
+Pak Colony,659,57.1,7.77,SITE Town,Medium
+Gulshan-e-Iqbal Block 13E,628,54.3,7.63,Gulshan-e-Iqbal Town,Medium-High
+Sector 4,585,45.8,7.14,Orangi Town,Medium
+Shah Faisal Colony 1,579,43.2,6.84,Shah Faisal Town,Medium
+Sector 5,574,46.9,7.25,Orangi Town,Medium
+Landhi No. 6,571,43.8,6.91,Landhi Town,Medium
+Shah Faisal Colony 4,569,42.0,6.78,Shah Faisal Town,Medium
+Sector 5-D,565,39.1,6.85,New Karachi Town,Medium
+Khokhrapar,562,15.3,6.48,Malir Town,Medium
+Green Town,560,37.7,6.61,Shah Faisal Town,Medium
+Al-Karam Square,560,38.4,6.81,Liaquatabad Town,Medium
+Guru Mandir,553,34.4,6.5,Jamshed Town,Medium
+Sector 5-E,551,38.3,6.74,New Karachi Town,Medium
+Sector 6,548,46.5,7.1,Orangi Town,Medium
+Dawood Chowrangi,548,43.8,7.01,Landhi Town,Medium
+Model Colony,542,41.0,6.87,Malir Town,Medium
+Godhra Camp,542,83.2,8.48,New Karachi Town,Medium
+Landhi No. 1,539,43.4,7.07,Landhi Town,Medium
+Sector 16,538,47.6,7.15,Orangi Town,Medium
+Muhajir Camp,538,46.5,7.07,Baldia Town,Medium
+Korangi No. 1,522,44.8,7.02,Korangi Town,Medium
+Saudabad,519,38.0,6.81,Malir Town,Medium
+Keamari No. 1,517,34.6,6.47,Keamari Town,Medium
+Sector 5-C,514,37.0,6.77,New Karachi Town,Medium
+Surjani Town,512,29.9,6.41,Gadap Town,Medium
+Bandhani Colony,510,42.7,6.86,Liaquatabad Town,Medium
+Shah Faisal Colony 2,510,40.0,6.74,Shah Faisal Town,Medium
+Sector 14,504,48.2,7.2,Orangi Town,Medium
+Khamiso Goth,503,36.2,6.74,New Karachi Town,Medium
+Sector 2,502,48.6,7.17,Orangi Town,Medium
+Sector 13,500,47.0,7.18,Orangi Town,Medium
+Gharibabad,496,44.8,7.05,Liaquatabad Town,Medium
+Gulshan-e-Maymar,493,35.9,6.66,Gadap Town,Medium
+Sector 11,493,51.1,7.3,Orangi Town,Medium
+Korangi No. 4,493,44.2,7.09,Korangi Town,Medium
+Ancholi,480,44.6,6.92,Gulberg Town,Medium
+Madina Colony,480,44.0,7.0,Orangi Town,Medium
+Landhi No. 2,477,40.5,6.87,Landhi Town,Medium
+Afridi Colony,477,47.0,7.13,Baldia Town,Medium
+Korangi No. 5,475,43.8,6.95,Korangi Town,Medium
+Sector 12,470,49.1,7.29,Orangi Town,Medium
+Landhi No. 5,469,41.6,6.94,Landhi Town,Medium
+Allah Wala Town,469,43.3,7.04,Korangi Town,Medium
+Jafar Tayyar Society,469,37.3,6.77,Malir Town,Medium
+Islam Chowk,465,43.7,6.97,Orangi Town,Medium
+Sector 1,464,47.6,7.21,Orangi Town,Medium
+Water Pump,463,42.3,6.81,Gulberg Town,Medium
+Landhi No. 4,460,42.0,7.0,Landhi Town,Medium
+Korangi No. 3,460,37.8,6.78,Korangi Town,Medium
+Sector 5-A,459,36.6,6.77,New Karachi Town,Medium
+Bhutta Village,455,32.5,6.39,Keamari Town,Medium
+Shah Faisal Colony 3,454,40.7,6.77,Shah Faisal Town,Medium
+Aligarh Colony,452,46.2,7.1,Orangi Town,Medium
+Malir Halt,452,40.5,6.76,Malir Town,Medium
+Soldier Bazaar,451,33.9,6.41,Jamshed Town,Medium
+Sector 7,449,46.1,7.18,Orangi Town,Medium
+Korangi No. 2,444,41.7,6.99,Korangi Town,Medium
+Natha Khan Goth,442,43.4,6.95,Shah Faisal Town,Medium
+Sector 3,442,45.2,7.15,Orangi Town,Medium
+Sector 5-B,441,38.3,6.76,New Karachi Town,Medium
+PECHS,438,32.6,6.46,Jamshed Town,Medium
+Sector 15,435,48.0,7.14,Orangi Town,Medium
+Korangi No. 6,426,39.7,6.8,Korangi Town,Medium
+Landhi No. 3,421,46.6,7.02,Landhi Town,Medium
+Sector 10,416,47.1,7.19,Orangi Town,Medium
+Dubai Chowk,351,10.8,5.06,Lyari Town,Low
+Saddar,326,12.3,6.43,Saddar Town,Low
+Rangiwara,316,20.6,6.5,Lyari Town,Low
+Clifton Block 2,282,9.2,4.78,Saddar Town,Low
+Federal B Area Block 17,280,9.3,4.77,Gulberg Town,Low
+Gulshan-e-Iqbal Block 14,280,7.9,4.89,Gulshan-e-Iqbal Town,Low
+Federal B Area Block 8,276,10.1,4.87,Gulberg Town,Low
+Sharifabad,275,9.5,4.86,Liaquatabad Town,Low
+Federal B Area Block 5,274,12.4,4.97,Gulberg Town,Low
+Sector 9,272,12.1,5.18,Orangi Town,Low
+Qasimabad,271,7.0,4.79,Liaquatabad Town,Low
+Gulshan-e-Iqbal Block 16,270,7.0,4.62,Gulshan-e-Iqbal Town,Low
+SMCHS,269,13.0,4.66,Jamshed Town,Low
+Block E,264,11.0,5.06,North Nazimabad Town,Low
+Federal B Area Block 10,258,7.4,4.83,Gulberg Town,Low
+Federal B Area Block 14,258,10.5,4.9,Gulberg Town,Low
+Block J,252,9.5,4.94,North Nazimabad Town,Low
+Gulshan-e-Iqbal Block 2,252,9.9,4.85,Gulshan-e-Iqbal Town,Low
+Federal B Area Block 9,250,8.4,4.92,Gulberg Town,Low
+Clifton Block 1,249,9.6,4.76,Saddar Town,Low
+Gulshan-e-Iqbal Block 17,249,10.0,4.73,Gulshan-e-Iqbal Town,Low
+Hyderi,247,10.5,4.63,North Nazimabad Town,Low
+Federal B Area Block 18,246,8.5,4.95,Gulberg Town,Low
+Block I,244,6.6,4.63,North Nazimabad Town,Low
+Clifton Block 6,244,7.0,4.7,Saddar Town,Low
+Clifton Block 8,240,9.6,4.69,Saddar Town,Low
+Gulshan-e-Iqbal Block 13,239,7.1,4.73,Gulshan-e-Iqbal Town,Low
+Clifton Block 3,237,8.9,4.62,Saddar Town,Low
+Sector 12-L,237,13.9,5.37,Orangi Town,Low
+Clifton Block 5,236,8.5,4.6,Saddar Town,Low
+Gulshan-e-Iqbal Block 4,235,10.2,4.81,Gulshan-e-Iqbal Town,Low
+PECHS Block 2,235,6.8,4.21,Jamshed Town,Low
+Federal B Area Block 13,234,9.0,4.79,Gulberg Town,Low
+Cantt Station,233,11.6,4.98,Saddar Town,Low
+Gulshan-e-Iqbal Block 18,232,9.5,4.9,Gulshan-e-Iqbal Town,Low
+Civil Lines,231,7.8,4.81,Saddar Town,Low
+Gulshan-e-Iqbal Block 12,231,6.9,4.48,Gulshan-e-Iqbal Town,Low
+Federal B Area Block 4,230,8.7,4.55,Gulberg Town,Low
+Block C,229,8.7,4.77,North Nazimabad Town,Low
+Kala Board,228,10.1,4.92,Malir Town,Low
+Bhutto Nagar,228,13.6,5.05,Landhi Town,Low
+Gulshan-e-Iqbal Block 3,228,7.0,4.8,Gulshan-e-Iqbal Town,Low
+Gulshan-e-Iqbal Block 7,227,6.2,4.83,Gulshan-e-Iqbal Town,Low
+Block B,227,5.7,4.62,North Nazimabad Town,Low
+Clifton Block 7,225,6.2,4.69,Saddar Town,Low
+Gulshan-e-Iqbal Block 11,223,8.1,4.82,Gulshan-e-Iqbal Town,Low
+Block D,222,13.1,5.02,North Nazimabad Town,Low
+Block H,222,11.3,4.92,North Nazimabad Town,Low
+Block K,221,10.0,5.01,North Nazimabad Town,Low
+Gulshan-e-Iqbal Block 8,219,7.3,4.63,Gulshan-e-Iqbal Town,Low
+Gulshan-e-Iqbal Block 6,219,9.1,4.65,Gulshan-e-Iqbal Town,Low
+Block L,219,7.3,4.72,North Nazimabad Town,Low
+Federal B Area Block 3,219,11.9,4.98,Gulberg Town,Low
+KDA Chowrangi,218,13.8,5.17,North Nazimabad Town,Low
+Block F,218,9.6,4.95,North Nazimabad Town,Low
+Federal B Area Block 11,218,13.8,4.75,Gulberg Town,Low
+Federal B Area Block 16,216,6.5,4.54,Gulberg Town,Low
+Federal B Area Block 22,216,12.0,5.03,Gulberg Town,Low
+Block G,214,8.4,4.57,North Nazimabad Town,Low
+Gulshan-e-Iqbal Block 19,212,9.4,4.69,Gulshan-e-Iqbal Town,Low
+Clifton Block 9,211,10.4,4.74,Saddar Town,Low
+Federal B Area Block 12,211,9.0,4.91,Gulberg Town,Low
+Federal B Area Block 6,206,12.6,4.88,Gulberg Town,Low
+Firdous Colony,205,8.3,4.66,Liaquatabad Town,Low
+Block A,205,9.8,4.99,North Nazimabad Town,Low
+Gulshan-e-Iqbal Block 9,199,7.5,4.82,Gulshan-e-Iqbal Town,Low
+Federal B Area Block 15,199,11.6,4.86,Gulberg Town,Low
+Federal B Area Block 1,195,7.2,4.68,Gulberg Town,Low
+Sector 8,194,11.9,5.06,Orangi Town,Low
+Gulshan-e-Iqbal Block 1,194,9.8,4.84,Gulshan-e-Iqbal Town,Low
+Dak-khana,191,7.3,4.81,Liaquatabad Town,Low
+Shadman Town,187,7.0,4.51,North Nazimabad Town,Low
+Federal B Area Block 2,187,8.0,4.78,Gulberg Town,Low
+Buffer Zone,185,13.5,5.08,North Nazimabad Town,Low
+Gulshan-e-Iqbal Block 5,184,6.0,4.69,Gulshan-e-Iqbal Town,Low
+Federal B Area Block 21,180,12.2,4.8,Gulberg Town,Low
+Federal B Area Block 19,176,6.2,4.91,Gulberg Town,Low
+Clifton Block 4,176,8.5,4.66,Saddar Town,Low
+Federal B Area Block 7,173,11.6,5.01,Gulberg Town,Low
+Gulshan-e-Iqbal Block 15,172,9.9,4.76,Gulshan-e-Iqbal Town,Low
+Federal B Area Block 20,165,9.1,4.88,Gulberg Town,Low
+Gulshan-e-Iqbal Block 10,164,8.5,4.87,Gulshan-e-Iqbal Town,Low

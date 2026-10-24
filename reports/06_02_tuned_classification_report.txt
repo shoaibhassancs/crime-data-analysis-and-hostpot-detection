@@ -1,0 +1,12 @@
+Logistic regression (tuned)
+Best settings: {'model__C': 0.1}
+
+              precision    recall  f1-score   support
+
+         Low      0.865     0.845     0.855      2628
+      Medium      0.822     0.848     0.835      6350
+        High      0.943     0.931     0.937     11022
+
+    accuracy                          0.894     20000
+   macro avg      0.877     0.875     0.876     20000
+weighted avg      0.895     0.894     0.894     20000

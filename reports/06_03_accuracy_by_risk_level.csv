@@ -1,0 +1,5 @@
+SUBDIVISION_RISK_LEVEL,rows,accuracy
+Low,3788,0.836
+Medium,6999,0.873
+Medium-High,1123,0.862
+High,8090,0.943

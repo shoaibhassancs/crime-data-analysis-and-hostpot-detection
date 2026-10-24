@@ -1,0 +1,8 @@
+Model,Accuracy,Macro F1,What it does
+Always predict High,0.551,0.237,No learning at all
+Rule: crime type only,0.66,0.605,Most common severity for each crime type
+Rule: crime type + subdivision,0.899,0.881,Most common severity for each crime type in each subdivision
+Logistic regression,0.894,0.876,Adds up the effect of each column
+Decision tree,0.876,0.864,One tree of yes/no questions
+Random forest,0.89,0.871,Many trees that vote
+Gradient boosting,0.894,0.875,Trees that correct each other

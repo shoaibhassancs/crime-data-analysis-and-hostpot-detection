@@ -1,0 +1,28 @@
+CRIME_TYPE,incidents,pct_high,avg_severity
+Robbery,10269,56.3,7.81
+Snatching,10051,38.7,6.93
+Murder,8138,96.2,9.63
+Theft,7634,27.1,5.97
+Gang Violence,7247,84.7,9.05
+Political Violence,5970,72.0,8.47
+Assault,5907,70.6,8.35
+Drug Possession,5706,12.5,4.77
+Homicide,5668,84.1,9.0
+Gang Activity,5370,20.4,5.71
+Land Grabbing,5269,31.1,6.51
+Extortion,5255,42.5,7.19
+Kidnapping,5234,82.1,8.86
+Industrial Hazards,5009,3.5,3.52
+Shootings,944,100.0,9.76
+Gun Violence,821,50.4,7.51
+Cellphone Snatching,757,100.0,8.98
+Street Crimes,674,71.2,7.92
+Drug Mafia Activity,657,75.5,8.0
+Mugging,641,75.8,8.85
+Targeted Killing,613,100.0,9.01
+Industrial Theft,517,76.8,8.03
+Street Snatching,398,100.0,9.0
+Ethnic Conflict,390,100.0,9.01
+Phone Theft,388,100.0,9.01
+Violence,349,76.2,8.03
+Mobile Snatching,124,0.0,6.05

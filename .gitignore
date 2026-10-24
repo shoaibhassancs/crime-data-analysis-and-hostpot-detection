@@ -1,0 +1,39 @@
+# -----------------------------
+# Python virtual environment
+# -----------------------------
+.venv/
+venv/
+env/
+
+# -----------------------------
+# Python cache and notebook checkpoints
+# -----------------------------
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# -----------------------------
+# Secrets and private settings
+# -----------------------------
+.env
+*.key
+
+# -----------------------------
+# macOS and editor files
+# -----------------------------
+.DS_Store
+.vscode/
+
+# -----------------------------
+# Data (large files, re-created by the scripts)
+# -----------------------------
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# -----------------------------
+# Saved models (large, re-created by the scripts)
+# -----------------------------
+models/*
+!models/.gitkeep

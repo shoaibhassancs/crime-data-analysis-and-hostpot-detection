@@ -1,0 +1,5 @@
+SUBDIVISION_RISK_LEVEL,incidents,pct_high,avg_severity,subdivisions
+Low,18832,9.6,4.87,82
+Medium,34891,43.5,6.98,68
+Medium-High,5607,57.2,7.72,8
+High,40670,85.8,9.04,36

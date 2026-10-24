@@ -1,0 +1,4 @@
+Group,Drop in macro F1,Std
+"Location (town, subdivision, risk level, coordinates)",0.3998,0.0025
+Crime type,0.3849,0.0018
+"Time (year, month, weekday, weekend)",0.0003,0.0004

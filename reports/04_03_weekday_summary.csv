@@ -1,0 +1,8 @@
+DAY_NAME,incidents,pct_high,avg_severity,incidents_per_day,vs_average_pct
+Monday,14334,55.3,7.47,54.9,0.2
+Tuesday,14344,54.9,7.45,55.0,0.4
+Wednesday,14373,55.1,7.47,55.1,0.6
+Thursday,14136,55.3,7.47,54.2,-1.0
+Friday,14242,55.4,7.48,54.6,-0.3
+Saturday,14294,55.2,7.47,54.8,0.1
+Sunday,14277,54.6,7.45,54.9,0.2
